@@ -1,7 +1,7 @@
 import { useState } from "react";
-import ShopPage from "./pages/ShopPage";
-import SellPage from "./pages/SellPage";
-import UserPage from "./pages/UserPage";
+import ShopPage from "./Pages/ShopPage";
+import SellPage from "./Pages/SellPage";
+import UserPage from "./Pages/UserPage";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import "./App.css";
